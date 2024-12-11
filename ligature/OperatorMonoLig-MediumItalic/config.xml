@@ -23,19 +23,19 @@
 
 
 
-        <xMin value="-1560"/>
+        <xMin value="-1562"/>
 
 
-        <yMin value="-284"/>
+        <yMin value="-371"/>
 
 
-        <xMax value="610"/>
+        <xMax value="717"/>
 
 
-        <yMax value="1140"/>
+        <yMax value="1130"/>
 
 
-        <macStyle value="00000000 00000000"/>
+        <macStyle value="00000000 00000010"/>
 
 
         <lowestRecPPEM value="3"/>
@@ -66,22 +66,22 @@
         <lineGap value="0"/>
 
 
-        <advanceWidthMax value="550"/>
+        <advanceWidthMax value="600"/>
 
 
-        <minLeftSideBearing value="-1560"/>
+        <minLeftSideBearing value="-1562"/>
 
 
-        <minRightSideBearing value="-60"/>
+        <minRightSideBearing value="-167"/>
 
 
-        <xMaxExtent value="610"/>
+        <xMaxExtent value="717"/>
 
 
-        <caretSlopeRise value="1"/>
+        <caretSlopeRise value="1000"/>
 
 
-        <caretSlopeRun value="0"/>
+        <caretSlopeRun value="194"/>
 
 
         <caretOffset value="0"/>
@@ -102,13 +102,13 @@
         <metricDataFormat value="0"/>
 
 
-        <numberOfHMetrics value="466"/>
+        <numberOfHMetrics value="468"/>
 
 
     </hhea>
     <CFF>
         <CFFFont>
-            <FontBBox value="-1560 -284 610 1140"/>
+            <FontBBox value="-1562 -371 717 1130"/>
         </CFFFont>
     </CFF>
     <CFF>
@@ -119,7 +119,7 @@
         </CFFFont>
     </CFF>
     <OS_2>
-        <fsSelection value="00000000 01000000"/>
-        <usWeightClass value="200"/>
+        <fsSelection value="00000000 00000001"/>
+        <usWeightClass value="500"/>
     </OS_2>
 </ttFont>

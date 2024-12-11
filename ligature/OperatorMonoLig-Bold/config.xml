@@ -23,16 +23,16 @@
 
 
 
-        <xMin value="-1560"/>
+        <xMin value="-1564"/>
 
 
-        <yMin value="-284"/>
+        <yMin value="-288"/>
 
 
-        <xMax value="610"/>
+        <xMax value="630"/>
 
 
-        <yMax value="1140"/>
+        <yMax value="1144"/>
 
 
         <macStyle value="00000000 00000000"/>
@@ -66,16 +66,16 @@
         <lineGap value="0"/>
 
 
-        <advanceWidthMax value="550"/>
+        <advanceWidthMax value="600"/>
 
 
-        <minLeftSideBearing value="-1560"/>
+        <minLeftSideBearing value="-1564"/>
 
 
-        <minRightSideBearing value="-60"/>
+        <minRightSideBearing value="-80"/>
 
 
-        <xMaxExtent value="610"/>
+        <xMaxExtent value="630"/>
 
 
         <caretSlopeRise value="1"/>
@@ -108,7 +108,7 @@
     </hhea>
     <CFF>
         <CFFFont>
-            <FontBBox value="-1560 -284 610 1140"/>
+            <FontBBox value="-1564 -288 630 1144"/>
         </CFFFont>
     </CFF>
     <CFF>
@@ -120,6 +120,6 @@
     </CFF>
     <OS_2>
         <fsSelection value="00000000 01000000"/>
-        <usWeightClass value="200"/>
+        <usWeightClass value="600"/>
     </OS_2>
 </ttFont>
